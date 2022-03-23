@@ -87,7 +87,7 @@ body{
     font-weight: 900;
     line-height: 1.36;
     letter-spacing: 0.06em;;
-
+    text-transform: uppercase;
     color: var(--general-color);
 
 }
@@ -150,7 +150,7 @@ body{
 .footer-address{
     font-size: 14px;
     line-height: 1.7;
-    color: #ffffff60;
+    color: var(--secondary-text-color);
     font-style: normal;
 }
 
